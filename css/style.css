@@ -188,7 +188,7 @@ address p{
 /*footer end*/
 /*contact end*/
 /*=== SCROLL-UP-BTN ===*/
-.scroll-up-btn {
+.scroll-up-btn{
 	width: 40px;
 	height: 40px;
 	position: fixed;
@@ -197,6 +197,6 @@ address p{
 	font-size: 22px;
 	background: #fcdb00;
 	color: #fff;
-	border-radius: 50%;
+	border-radius: 40%;
 	text-align: center;
 }
